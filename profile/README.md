@@ -2,8 +2,9 @@
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
-
 🌈 Contribution guidelines - how can the community get involved?
+
+[roadmap продукта](https://github.com/orgs/everytag/projects/2)
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
