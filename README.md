@@ -1,2 +1,1 @@
-# .github
-About
+[открытые вакансии](https://www.everytag.ru/careers)
