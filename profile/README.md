@@ -4,9 +4,9 @@
 
 ## Полезные ссылки:
 - Наш [Telegram](https://t.me/everytag_it)/ канал
-- [Описание продуктов](https://www.everytag.ru/)
-- [Портал документации](https://docs.everytag.ru/)
-- [Открытые вакансии](https://www.everytag.ru/careers)
+- Описание [продуктов](https://www.everytag.ru/)
+- Портал [документации](https://docs.everytag.ru/)
+- Открытые [вакансии](https://www.everytag.ru/careers)
 
 ## Вклад сообщества
 Ваше участие крайне важно для нас. Если вы обнаружили проблемы в решениях или недостатки в документации, вы можете создать Issue в соответствующем репозитории или задать вопросы в нашей группе в [Telegram](https://t.me/+2BQTo-m9dJNjZWJi).
