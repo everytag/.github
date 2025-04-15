@@ -5,7 +5,7 @@
 ## Полезные ссылки:
 - Наш [Telegram](https://t.me/everytag_it) канал
 - Описание [продуктов](https://www.everytag.ru/)
-- Портал [документации](https://docs.everytag.ru/)
+<!-- Портал [документации](https://docs.everytag.ru/) -->
 - Открытые [вакансии](https://www.everytag.ru/careers)
 
 ## Вклад сообщества
